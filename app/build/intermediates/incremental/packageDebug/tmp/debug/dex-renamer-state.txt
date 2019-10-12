@@ -1,0 +1,4 @@
+#Wed Oct 02 09:08:27 ICT 2019
+base.0=/home/hieu/Downloads/QuanLySach-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
